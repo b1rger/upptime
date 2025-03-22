@@ -40,19 +40,19 @@
     "url": "$POKEPOKE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "poke-poke",
-    "status": "down",
-    "uptime": "34.87%",
-    "uptimeDay": "34.87%",
-    "uptimeWeek": "34.87%",
-    "uptimeMonth": "34.87%",
-    "uptimeYear": "34.87%",
-    "time": 1692,
-    "timeDay": 1692,
-    "timeWeek": 1692,
-    "timeMonth": 1692,
-    "timeYear": 1692,
+    "status": "up",
+    "uptime": "33.76%",
+    "uptimeDay": "33.76%",
+    "uptimeWeek": "33.76%",
+    "uptimeMonth": "33.76%",
+    "uptimeYear": "33.76%",
+    "time": 1674,
+    "timeDay": 1674,
+    "timeWeek": 1674,
+    "timeMonth": 1674,
+    "timeYear": 1674,
     "dailyMinutesDown": {
-      "2025-03-22": 192
+      "2025-03-22": 202
     }
   }
 ]
