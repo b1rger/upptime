@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 777,
-    "timeDay": 913,
-    "timeWeek": 789,
-    "timeMonth": 777,
-    "timeYear": 777,
+    "time": 778,
+    "timeDay": 925,
+    "timeWeek": 793,
+    "timeMonth": 778,
+    "timeYear": 778,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 884,
-    "timeDay": 1046,
-    "timeWeek": 889,
-    "timeMonth": 884,
-    "timeYear": 884,
+    "time": 885,
+    "timeDay": 993,
+    "timeWeek": 876,
+    "timeMonth": 885,
+    "timeYear": 885,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "$POKEPOKE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "poke-poke",
-    "status": "down",
-    "uptime": "83.53%",
-    "uptimeDay": "81.05%",
-    "uptimeWeek": "77.10%",
-    "uptimeMonth": "83.53%",
-    "uptimeYear": "83.53%",
-    "time": 1314,
-    "timeDay": 1307,
-    "timeWeek": 1298,
-    "timeMonth": 1314,
-    "timeYear": 1314,
+    "status": "up",
+    "uptime": "83.40%",
+    "uptimeDay": "78.77%",
+    "uptimeWeek": "76.78%",
+    "uptimeMonth": "83.40%",
+    "uptimeYear": "83.40%",
+    "time": 1315,
+    "timeDay": 1346,
+    "timeWeek": 1303,
+    "timeMonth": 1315,
+    "timeYear": 1315,
     "dailyMinutesDown": {
-      "2025-04-05": 273,
+      "2025-04-05": 306,
       "2025-04-04": 558,
       "2025-04-03": 632,
       "2025-04-02": 664,
@@ -85,7 +85,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-05": 710
+      "2025-04-05": 743
     }
   },
   {
@@ -105,7 +105,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-05": 710
+      "2025-04-05": 743
     }
   },
   {
@@ -119,11 +119,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 126,
-    "timeWeek": 126,
-    "timeMonth": 126,
-    "timeYear": 126,
+    "time": 124,
+    "timeDay": 124,
+    "timeWeek": 124,
+    "timeMonth": 124,
+    "timeYear": 124,
     "dailyMinutesDown": {}
   },
   {
@@ -143,7 +143,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-05": 710
+      "2025-04-05": 743
     }
   }
 ]
