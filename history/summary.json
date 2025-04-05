@@ -40,19 +40,19 @@
     "url": "$POKEPOKE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "poke-poke",
-    "status": "up",
-    "uptime": "83.33%",
-    "uptimeDay": "76.27%",
-    "uptimeWeek": "77.21%",
-    "uptimeMonth": "83.33%",
-    "uptimeYear": "83.33%",
+    "status": "down",
+    "uptime": "83.61%",
+    "uptimeDay": "81.60%",
+    "uptimeWeek": "77.35%",
+    "uptimeMonth": "83.61%",
+    "uptimeYear": "83.61%",
     "time": 1318,
-    "timeDay": 1330,
-    "timeWeek": 1324,
+    "timeDay": 1326,
+    "timeWeek": 1332,
     "timeMonth": 1318,
     "timeYear": 1318,
     "dailyMinutesDown": {
-      "2025-04-05": 263,
+      "2025-04-05": 249,
       "2025-04-04": 558,
       "2025-04-03": 632,
       "2025-04-02": 664,
@@ -85,7 +85,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-05": 393
+      "2025-04-05": 662
     }
   },
   {
@@ -105,7 +105,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-05": 393
+      "2025-04-05": 662
     }
   },
   {
@@ -114,19 +114,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "other-tcp-i-pv4",
     "status": "up",
-    "uptime": "96.74%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "96.74%",
-    "uptimeMonth": "96.74%",
-    "uptimeYear": "96.74%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 126,
     "timeDay": 126,
     "timeWeek": 126,
     "timeMonth": 126,
     "timeYear": 126,
-    "dailyMinutesDown": {
-      "2025-04-05": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Other TCP IPv6",
@@ -145,7 +143,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-05": 393
+      "2025-04-05": 662
     }
   }
 ]
