@@ -40,19 +40,19 @@
     "url": "$POKEPOKE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "poke-poke",
-    "status": "down",
-    "uptime": "83.79%",
-    "uptimeDay": "89.62%",
-    "uptimeWeek": "76.76%",
-    "uptimeMonth": "83.79%",
-    "uptimeYear": "83.79%",
-    "time": 1314,
-    "timeDay": 1002,
-    "timeWeek": 1290,
-    "timeMonth": 1314,
-    "timeYear": 1314,
+    "status": "up",
+    "uptime": "83.75%",
+    "uptimeDay": "88.97%",
+    "uptimeWeek": "76.67%",
+    "uptimeMonth": "83.75%",
+    "uptimeYear": "83.75%",
+    "time": 1321,
+    "timeDay": 1154,
+    "timeWeek": 1302,
+    "timeMonth": 1321,
+    "timeYear": 1321,
     "dailyMinutesDown": {
-      "2025-04-06": 19,
+      "2025-04-06": 29,
       "2025-04-05": 306,
       "2025-04-04": 558,
       "2025-04-03": 632,
@@ -86,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-06": 581,
+      "2025-04-06": 591,
       "2025-04-05": 782
     }
   },
@@ -107,7 +107,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-06": 581,
+      "2025-04-06": 591,
       "2025-04-05": 782
     }
   },
@@ -146,7 +146,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-06": 581,
+      "2025-04-06": 591,
       "2025-04-05": 782
     }
   }
