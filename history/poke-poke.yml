@@ -1,7 +1,7 @@
 url: $POKEPOKE
-status: up
-code: 200
-responseTime: 1035
-lastUpdated: 2025-05-27T23:21:24.331Z
+status: down
+code: 502
+responseTime: 1281
+lastUpdated: 2025-05-28T02:02:49.223Z
 startTime: 2025-03-22T12:43:04.757Z
 generator: Upptime <https://github.com/upptime/upptime>
